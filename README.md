@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Guilherme and I'm a Student Developer, from Brazil</h2>
+
+<h2 align="center">Hi 👋! My name is Guilherme and I'm a Student Developer, from Brazil</h2>
 
 ###
 
@@ -36,10 +37,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
 ###
