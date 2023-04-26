@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/GuilhermeSReis/GuilhermeSReis/blob/master/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GuilhermeSReis/GuilhermeSReis/blob/output/github-contribution-grid-snake.svg)
 
 ###
