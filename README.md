@@ -30,7 +30,9 @@
 
 ###
 
-  ![Snake animation](https://github.com/GuilhermeSReis/GuilhermeSReis/blob/output/github-contribution-grid-snake.svg)
+<p align="center">   
+  <img alingn="center" src="https://github.com/GuilhermeSReis/GuilhermeSReis/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ###
 
