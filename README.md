@@ -42,6 +42,6 @@
 
 ###
 
-
+<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/guilhermesreis/count.svg"/></p>
 
 ###
