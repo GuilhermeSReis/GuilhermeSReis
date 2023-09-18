@@ -27,9 +27,7 @@
 
 ###
 
-<p align="center">   
-  <img alingn="center" src="https://github.com/GuilhermeSReis/GuilhermeSReis/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 ###
 <div align="center">
