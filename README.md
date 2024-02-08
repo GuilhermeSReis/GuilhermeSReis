@@ -12,7 +12,7 @@
 ###
 
 <p align="center">   
-  <img alingn="center" src="./lofi-hiphop.gif" width="600px" />
+  <img alingn="center" src="https://i.pinimg.com/originals/c0/a2/c1/c0a2c1bbf109de83b2b474ab2795b847.gif" width="600px" />
 </p>
 
 ###
